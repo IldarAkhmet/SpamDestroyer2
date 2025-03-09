@@ -2,4 +2,4 @@ venv39/
 *.pth
 *.pkl
 NotebookWork/Data
-Bot/TOKEN
+Bot/TOKEN.py
