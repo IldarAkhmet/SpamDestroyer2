@@ -1,7 +1,4 @@
-import torch
-import asyncio
-
-from TOKEN import TOKEN
+from Bot.TOKEN import TOKEN
 from aiogram import executor, Bot, Dispatcher, types
 from get_model import Model
 from TextPreprocess.BertTextPreproccess import BertTextPreprocess
